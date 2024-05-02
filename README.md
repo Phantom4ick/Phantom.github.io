@@ -1,2 +1,2 @@
 # Phantom.github.io
-Fert projekt
+Ferst projekt
